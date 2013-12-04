@@ -69,7 +69,11 @@
       </div>
 
       <div class="footer">
+<<<<<<< HEAD
         <p>&copy; <? echo $title; ?> 2013</p>
+=======
+        <p>&copy; Company 2013</p>
+>>>>>>> renamed under_construction file, was mispelled
       </div>
 
     </div> <!-- /container -->

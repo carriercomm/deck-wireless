@@ -24,10 +24,11 @@ class Welcome extends CI_Controller {
 		// $this->load->view('header',$data);
 		// $this->load->view('index_content');
 		// $this->load->view('footer');
-
+		
 		$data['title'] = "Deck Wireless";
 		$this->load->view('under_construction',$data);
 	}
+
 }
 
 /* End of file welcome.php */

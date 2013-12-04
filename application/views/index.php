@@ -19,9 +19,7 @@
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<span class="icon icon-group"></span>
-			<h1><a href="#">Deck Wireless</a></h1>
-			<span>Template Design by <a href="http://www.freecsstemplates.org/" rel="nofollow">FreeCSSTemplates.org</a></span> </div>
+			<img src="assets/images/D-W-white-trans.png">			
 		</div>
 		<div id="triangle-up"></div>
 	</div>

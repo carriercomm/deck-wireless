@@ -19,7 +19,7 @@
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<img src="assets/images/D-W-white-trans.png" height="50%" width="50%">
+			<img src="assets/images/D-W-white-trans.png" class="logo_img">
 			<br>
 			<span>An Authorized <a href="https://www.wirelesspioneer.com/" rel="nofollow">Pioneer Cellular</a> Agent</span> </div>			
 		</div>

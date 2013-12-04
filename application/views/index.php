@@ -69,7 +69,9 @@
 	<div class="hexagon"><span class="icon icon-wrench"></span></div>
 </div>
 <div id="copyright" class="container">
-	<p>Copyright (c) 2013 Sitename.com. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://www.freecsstemplates.org/" rel="nofollow">FreeCSSTemplates.org</a>.</p>
+	<p>Copyright (c) 2013 <? echo $title; ?>. All rights reserved. 
+	<br>| 127 W MAIN ST - WEATHERFORD, OK  73096 | Call us 580-330-DECK(3325) |
+	<br>Design by <a href="http://www.beacontechsupport.com/" rel="nofollow">Beacon Tech Support</a>.</p>
 </div>
 </body>
 </html>

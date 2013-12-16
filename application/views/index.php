@@ -30,10 +30,8 @@
 		<div id="menu">
 			<ul>
 				<li class="current_page_item"><a href="#" accesskey="1" title="">Homepage</a></li>
-				<li><a href="#" accesskey="2" title="">Our Clients</a></li>
-				<li><a href="#" accesskey="3" title="">About Us</a></li>
-				<li><a href="#" accesskey="4" title="">Careers</a></li>
-				<li><a href="#" accesskey="5" title="">Contact Us</a></li>
+				<li><a href="#" accesskey="2" title="">Our Rate Plans</a></li>
+				<li><a href="#" accesskey="3" title="">Contact Us</a></li>				
 			</ul>
 		</div>
 </div>
@@ -42,31 +40,37 @@
 	
 		<div class="extra2 container">
 			<div class="ebox1">
-				<div class="hexagon"><span class="icon icon-lightbulb"></span></div>
+				<div class="hexagon"><span class="icon icon-signal"></span></div>
 				<div class="title">
-					<h2>Fusce ultrices fringilla</h2>
-					<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span>
+					<h2>Rate Plans</h2>
+					<span class="byline">We make it easy to get service</span>
 				</div>
-				<p>This is <strong>Plushiness</strong>, a free, fully standards-compliant CSS template designed by <a href="http://www.freecsstemplates.org/" rel="nofollow">FreeCSSTemplates.org</a>. The photos in this template are from <a href="http://fotogrph.com/"> Fotogrph</a>. This free template is released under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attributions 3.0</a> license, so you are pretty much free to do whatever you want with it (even use it commercially) provided you keep the links in the footer intact. Aside from that, have fun with it :) </p>
-				<a href="#" class="button">Etiam posuere</a>
+				<p><!-- TODO check out http://webdesignergeeks.com/tutorials/html-css-tutorials/free-css3-pricing-table/ --></p>
+				<a href="#" class="button icon icon-arrow-up"></a>
 			</div>		
 
 			<div class="ebox2">
-				<div class="hexagon"><span class="icon icon-bullhorn"></span></div>
+				<div class="hexagon"><span class="icon icon-phone"></span></div>
 				<div class="title">
-					<h2>Donec dictum metus</h2>
-					<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span>
+					<h2>Contact Us</h2>
+					<span class="byline">We would love to hear from you</span>
 				</div>
-				<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Pellentesque tristique ante ut risus. Quisque dictum. Integer nisl risus, sagittis convallis, rutrum id, elementum congue, nibh. Suspendisse dictum porta lectus. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo. Pellentesque imperdiet.</p>
-				<a href="#" class="button">Etiam posuere</a>
+				<!--begin Google Map -->
+				<iframe src="https://mapsengine.google.com/map/embed?mid=zayl1s9AjXmE.ktTgJk3Rc40A" width="400" height="300" frameborder=0></iframe>
+				<!--end Google Map -->
+				<br>
+				<br>
+				<p>Deck Wireless is your full-service cellular dealer, serving the Western Oklahoma area of Custer, Washita, Dewey, Blaine, and Caddo counties.<br>
+				We specialize in quality cell phone services and accessories.  Deck Wireless is located at 127 W Main, Weatherford.<br>
+				For the best in cell phone, text & picture messaging, and internet service, experience the personal service of DECK WIRELESS</p>
+				<a href="#" class="button icon icon-arrow-up"></a>
 			</div>		
 
 		</div>	
 
 	</div>
 </div>
-<div id="stamp" class="container">
-	<div class="hexagon"><span class="icon icon-wrench"></span></div>
+<div id="stamp" class="container">	
 </div>
 <div id="copyright" class="container">
 	<p>Copyright (c) 2013 <? echo $title; ?>. All rights reserved. 

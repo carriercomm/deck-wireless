@@ -425,8 +425,10 @@ ul.contact li a.icon-rss:before
 	
 	.logo_img
 	{
-		height: 50%;
-		width: 50%;
+		max-width:100% !important;
+		height:auto !important;
+		display:block;
+		margin:0 auto;
 	}
 	
 	

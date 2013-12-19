@@ -59,42 +59,43 @@
 						<td align="center">$29.95</td>
 					</tr>
 					<tr>
-						<td align="center">PLAN 500</td>
+						<td align="center">PLAN 500 *</td>
 						<td align="center">$36.95</td>						
 						<td align="center">$14.95</td>
 					</tr>
 					<tr>
-						<td align="center">PLAN 1000</td>
+						<td align="center">PLAN 1000 *</td>
 						<td align="center">$48.95</td>						
 						<td align="center">$9.95</td>
 					</tr>
 					<tr>
-						<td align="center">PLAN 1500</td>
+						<td align="center">PLAN 1500 *</td>
 						<td align="center">$66.95</td>
 						<td align="center">$9.95</td>
 					</tr>
 					<tr>
-						<td align="center">PLAN 2000</td>
+						<td align="center">PLAN 2000 *</td>
 						<td align="center">$94.95</td>
 						<td align="center">$9.95</td>
 					</tr>
 					<tr>
-						<td align="center">PLAN 2500</td>
+						<td align="center">PLAN 2500 *</td>
 						<td align="center">$109.95</td>
 						<td align="center">$9.95</td>
 					</tr>
 					<tr>
-						<td align="center">PLAN 3500</td>
+						<td align="center">PLAN 3500 *</td>
 						<td align="center">$149.95</td>
 						<td align="center">$9.95</td>
 					</tr>
 					<tr>
-						<td align="center">PLAN 5500</td>
+						<td align="center">PLAN 5500 *</td>
 						<td align="center">$189.95</td>
 						<td align="center">$9.95</td>
 					</tr>					
 					</table>
 					
+					* See store for more details.
 					
 					<br><br>
 					<h2>Smartphone &amp;<br>Data Device<br>Plans</h2>

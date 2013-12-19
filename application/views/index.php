@@ -22,7 +22,7 @@
 		<div id="logo">
 			<img src="assets/images/D-W-white-trans.png" class="logo_img">
 			<br>
-			<span>An Authorized <a href="https://www.wirelesspioneer.com/" rel="nofollow">Pioneer Cellular</a> Agent</span> </div>			
+			<span class="logo_tagline">An Authorized <a href="https://www.wirelesspioneer.com/" rel="nofollow">Pioneer Cellular</a> Agent</span> </div>			
 		</div>
 		<div id="triangle-up"></div>
 	</div>

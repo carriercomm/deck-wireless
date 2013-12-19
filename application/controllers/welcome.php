@@ -16,7 +16,8 @@ class Welcome extends CI_Controller {
 	 * So any other public methods not prefixed with an underscore will
 	 * map to /index.php/welcome/<method_name>
 	 * @see http://codeigniter.com/user_guide/general/urls.html
-	 */
+	 */		
+
 	public function index()
 	{
 		// TODO Import initial html or php and separate into separate views
@@ -25,8 +26,8 @@ class Welcome extends CI_Controller {
 		// $this->load->view('index_content');
 		// $this->load->view('footer');
 		
-		$data['title'] = "Project Name";
-		$this->load->view('under_construction',$data);
+		$data['title'] = "Deck Wireless";
+		$this->load->view('index',$data);
 	}
 }
 

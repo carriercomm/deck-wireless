@@ -31,14 +31,14 @@
 		<div id="menu">
 			<ul>
 				<li class="current_page_item"><a href="#" accesskey="1" title="">Homepage</a></li>
-				<li><a href="#" accesskey="2" title="">Our Rate Plans</a></li>
-				<li><a href="#" accesskey="3" title="">Contact Us</a></li>				
+				<li><a href="#rateplans" accesskey="2" title="">Our Rate Plans</a></li>
+				<li><a href="#contact" accesskey="3" title="">Contact Us</a></li>				
 			</ul>
 		</div>
 </div>
 <div id="wrapper">
 	<div id="featured-wrapper">
-	
+	<a id="rateplans"></a>
 		<div class="extra2 container">
 			<div class="ebox1">
 				<div class="hexagon"><span class="icon icon-signal"></span></div>
@@ -145,7 +145,7 @@
 				</div>
 				<a href="#" class="button icon icon-arrow-up"></a>
 			</div>		
-
+			<a id="contact"></a>
 			<div class="ebox2">
 				<div class="hexagon"><a href="tel:580-330-3325"><span class="icon icon-phone" style="color:#FFF;text-decoration:none"></span></a></div>
 				<div class="title">
